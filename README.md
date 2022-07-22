@@ -1,5 +1,4 @@
 # Latihan UKL PBO Java
-## JDK ver : 11.0.12
 ### Tsabit imanana / XIR 5
 ### soal yang didapat : laundry
 
